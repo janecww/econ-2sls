@@ -1,2 +1,7 @@
-# econ-2sls
-To estimate a demand function for fish sold at a wet market in Singapore
+# Estimation of demand function for fish sold at a wet market in Singapore
+Wet markets in Singapore are generally open-air, partially sheltered spaces populated with dozens of vendors selling fresh food products, such as poultry, pork, vegetables, fruits, and spices. The name, ‘wet
+market’, refers to the routine acts of hosing down and washing the market’s floors with water to keep areas clean and sanitary. As is the case in nearby Malaysia and across Southeast Asia, wet markets are often hot, humid, pungent, and noisy, with a maze of stalls arranged along narrow aisles with slippery floors. Shoppers typically engage in bargaining and banter with vendors, which many feel is one of the reasons that wet markets have a certain charm and authenticity that modern supermarkets cannot replicate.
+
+One of the food products sold at wet markets are fish. Fish are heterogeneous, highly differentiated products. There are anywhere between one hundred and three hundred varieties of fish sold at a wet market. There are over fifteen varieties of shrimp alone. Within each variety, there’s small fish, large fish, medium fish, fish just caught, fish that have been around a while. There’s so much heterogeneity that shoppers often want to examine fish personally. The market functions just like a two-sided platform matching buyers to sellers.
+
+This project aims to estimate the demand function of fish by using data on fish sales at a particular wet mart.
